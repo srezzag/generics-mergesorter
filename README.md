@@ -1,0 +1,2 @@
+# generics-mergesorter
+This is an implementation of the MergeSort algorithm using Java's Generics and Comparables interfaces.This implementation is based on a pseudocode adaptation from Thomas H. Cormens' Introduction to Algoirthms Third Edition. Cormen's algorithm utilizes a sentinel value,1-based indexing, and segregated Left and Right subarrays. My implementation does not use the sentinel value, has 0-based indexing, and uses indices of the input array to differentiate the Left and Right subarrays.
