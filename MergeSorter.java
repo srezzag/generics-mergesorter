@@ -1,3 +1,4 @@
+
 /*
  * ICS 340 P1 Assignement -- Merge Sorter.
  * @author Samy Rezzag
@@ -50,6 +51,7 @@ public class MergeSorter<T> {
 	 * @param Comparable<? extends T>[] items, int low, int high
 	 * 
 	 */
+	
 	private static <T> void sort(Comparable<? extends T>[] items, int low, int high) {
 		if (low < high) {
 			int mid = (low + high) / 2;
