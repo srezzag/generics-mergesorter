@@ -1,6 +1,6 @@
 
 /*
- * ICS 340 P1 Assignement -- Merge Sorter.
+ * Merge Sorter
  * @author Samy Rezzag
  * Pseudocode adaptation from Thomas H. Cormens' Introduction to Algoirthms Third Edition.
  */
